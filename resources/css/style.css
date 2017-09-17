@@ -1,11 +1,9 @@
 body {
   font-family: Verdana;
+  text-align: center;
 }
 .visible-html {
   background-color: black;
-}
-.camping {
-  align-items: center;
 }
 .first-heading {
   font-size: 50px;
@@ -17,10 +15,13 @@ body {
   font-size: 16px;
   text-align: center;
   text-decoration: underline;
+  font-weight: normal;
 }
 .phone-video {
   display: block;
   margin: auto;
+  align-content: center;
+  border-color: green;
 }
 .camping {
   display: block;
@@ -32,12 +33,15 @@ body {
 }
 .secondary-heading {
   color: white;
+  text-align: center;
 }
 .description {
   font-size: 21px;
   color: gray;
+  text-align: center;
 }
 .copyright {
+  font-size: 21px;
   text-align: right;
   color: gray;
 }
